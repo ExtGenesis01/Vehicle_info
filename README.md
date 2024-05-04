@@ -14,6 +14,8 @@ There are also some dependancys the script need you to have in Order to work
 
 Usage of the script
 
+https://streamable.com/j2g3xz?src=player-page-share
+
 In order to use the script all you go to do is drag and drop the folder into your FiveM Resources 
 
 When you have draged it into your resource folder in Game you want to type /vehinfo and the script should tell you all about the vehicle your ped is driving. 
